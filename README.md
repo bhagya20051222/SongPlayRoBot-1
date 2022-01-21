@@ -18,7 +18,7 @@ Easy To Deploy 🤗
 # Click Below Image to Deploy
 [![Deploy](https://telegra.ph/file/b46c576231e0993e5d5c0.png)
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhagya20051222/SongPlayRoBot-1)
 
 ## Group
 You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
